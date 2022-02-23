@@ -1,0 +1,2 @@
+# exerciciostrybe
+Exercicios da trybe
